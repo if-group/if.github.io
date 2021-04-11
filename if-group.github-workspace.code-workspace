@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "Pure-CSS-Sorting"
 		}
 	],
 	"settings": {
