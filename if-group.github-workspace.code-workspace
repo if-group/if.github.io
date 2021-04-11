@@ -2,12 +2,9 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "Pure-CSS-Sorting"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "HTML-Code"
+		"liveServer.settings.multiRootWorkspaceName": null
 	}
 }
